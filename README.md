@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @nluhux
-- 👀 I’m interested in linux,arm,c,python,lisp,hardware,ee
-- 🌱 I’m currently learning c,linux,network
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+菜猫
+
+- 对Linux,C,Python,OS,嵌入式,网络感兴趣
 
 <!---
 nluhux/nluhux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
